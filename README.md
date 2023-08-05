@@ -8,7 +8,7 @@ Nice to meet you, I'm Adeel Ahmad
 - 👩‍💻 Working on Web & App Development
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer
-- 📫 How to reach me : [kingandcomputer@gmail.com](mailto:kingandcomputer@gmail.com)
+- 📫 How to reach me : [kingandcomputer@gmail.com](mailto:devadeelahmad@gmail.com)
 - 💌 Fun Facts :
   - Loves food but can't' cook 🐼
   - Stuck in University
