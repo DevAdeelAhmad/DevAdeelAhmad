@@ -29,12 +29,12 @@ Nice to meet you, I'm Adeel Ahmad
     <br />
     <br />
     <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/icons/180x180.png" alt="mui" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://headlessui.com/" target="_blank" rel="noreferrer"> <img src="https://headlessui.com/_next/static/media/social-card.3e0b1ed1aac3c1db62a0a1e7023d250b.jpg" alt="headless ui" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://headlessui.com/" target="_blank" rel="noreferrer"> <img src="https://headlessui.com/_next/static/media/social-card.3e0b1ed1aac3c1db62a0a1e7023d250b.jpg" alt="headless ui" width="70" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://flowbite.com/" target="_blank" rel="noreferrer"> <img src="https://flowbite.com/apple-touch-icon.png" alt="flowbite" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://chakra-ui.com/favicon.png" alt="chakra ui" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://m3.material.io/" target="_blank" rel="noreferrer"> <img src="https://m3.material.io/static/assets/m3-favicon.svg" alt="material design" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="Ant Design" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://daisyui.com/images/daisyui-logo/daisyui-logotype-3600-1024.png" alt="Daisy UI" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://daisyui.com/images/daisyui-logo/daisyui-logotype-3600-1024.png" alt="Daisy UI" width="70" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://ui.shadcn.com/favicon.ico" alt="Daisy UI" width="40" height="40"/> </a> &nbsp; &nbsp;
     <br/><br/>
     <a href="https://resend.com/" target="_blank" rel="noreferrer"> <img src="https://mintlify.s3-us-west-1.amazonaws.com/resend/_generated/favicon/favicon-32x32.png?v=3" alt="resend" width="40" height="40"/> </a> &nbsp; &nbsp;
