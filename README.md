@@ -34,15 +34,17 @@ Nice to meet you, I'm Adeel Ahmad
     <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://chakra-ui.com/favicon.png" alt="chakra ui" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://m3.material.io/" target="_blank" rel="noreferrer"> <img src="https://m3.material.io/static/assets/m3-favicon.svg" alt="material design" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="Ant Design" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://daisyui.com/images/daisyui-logo/daisyui-logotype-3600-1024.png" alt="Daisy UI" width="70" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://daisyui.com/images/daisyui-logo/daisyui-logotype-3600-1024.png" alt="Daisy UI" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://ui.shadcn.com/favicon.ico" alt="Daisy UI" width="40" height="40"/> </a> &nbsp; &nbsp;
     <br/><br/>
-    <a href="https://resend.com/" target="_blank" rel="noreferrer"> <img src="https://mintlify.s3-us-west-1.amazonaws.com/resend/_generated/favicon/favicon-32x32.png?v=3" alt="resend" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2023/04/cropped-Docker-favicon-180x180.png" alt="docker" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="prisma" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://resend.com/" target="_blank" rel="noreferrer"> <img src="https://resend.com/static/favicons/favicon@180x180.png" alt="resend" width="40" height="40"/> </a> &nbsp; &nbsp;
     <br />
     <br />
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> &nbsp; &nbsp;
