@@ -34,7 +34,7 @@ Nice to meet you, I'm Adeel Ahmad
     <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://chakra-ui.com/favicon.png" alt="chakra ui" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://m3.material.io/" target="_blank" rel="noreferrer"> <img src="https://m3.material.io/static/assets/m3-favicon.svg" alt="material design" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="Ant Design" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://daisyui.com/images/daisyui-logo/daisyui-logotype-3600-1024.png" alt="Daisy UI" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://daisyui.com/images/daisyui-logo/daisyui-logotype-3600-1024.png" alt="Daisy UI" width="80" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://ui.shadcn.com/favicon.ico" alt="Daisy UI" width="40" height="40"/> </a> &nbsp; &nbsp;
     <br/><br/>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
@@ -48,12 +48,11 @@ Nice to meet you, I'm Adeel Ahmad
     <br />
     <br />
     <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <br />
-    <br />
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://chat.openai.com/apple-touch-icon.png" alt="chatgpt" width="40" height="40"/> </a> &nbsp; &nbsp;
 </p>
 
 <br>
