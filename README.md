@@ -53,6 +53,8 @@ I'm Adeel Ahmad, a passionate developer building digital wonders.
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/apple-touch-icon.png" alt="vs code" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://bard.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/lamda/images/favicon_v1_150160cddff7f294ce30.svg" alt="googel bard" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://chat.openai.com/apple-touch-icon.png" alt="chatgpt" width="40" height="40"/> </a> &nbsp; &nbsp;
 </p>
 
