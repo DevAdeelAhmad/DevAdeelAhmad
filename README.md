@@ -11,7 +11,7 @@ I'm Adeel Ahmad, a passionate developer building digital wonders.
 - 🎯 Goal : To be a better Developer
 - 📫 Contact Me : [devadeelahmad@gmail.com](mailto:devadeelahmad@gmail.com)
 - 💌 Fun Facts :
-  - 🍔 Devourer of great food and future chef-in-training 🍳
+  - 🍔 Devourer of great food
   - 🎓 Exploring the realms of academia
   - 🧠 Overthinks occasionally, but that's just part of the creative process 🌟
 
