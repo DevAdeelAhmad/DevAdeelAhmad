@@ -21,7 +21,6 @@ I'm Adeel Ahmad, a passionate developer building digital wonders.
   <img src="https://streak-stats.demolab.com?user=devadeelahmad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph"  />
 </div>
 <br>
-###
 
 <h2 align="center">🛠 My Weapons</h2>
 
@@ -39,8 +38,6 @@ I'm Adeel Ahmad, a passionate developer building digital wonders.
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
   <img width="12" />
