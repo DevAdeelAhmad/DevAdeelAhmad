@@ -18,6 +18,7 @@ I'm Adeel Ahmad, a passionate developer building digital wonders.
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devadeelahmad&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=devadeelahmad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph"  />
 </div>
 <br>
 
