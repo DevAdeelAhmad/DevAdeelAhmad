@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-I'm Adeel Ahmad, a passionate developer building digital wonders.
+I'm Adeel Ahmad, a passionate software engineer building digital wonders.
 
 ## Who Am I? 🚀
 
@@ -8,7 +8,7 @@ I'm Adeel Ahmad, a passionate developer building digital wonders.
 - 🛠️ Crafting web and app experiences
 - 💻 Embracing the world of code and tech
 - 🚀 On a journey to mastery
-- 🎯 Goal : To be a better Developer
+- 🎯 Goal : To be better then yesterday
 - 📫 Contact Me : [devadeelahmad@gmail.com](mailto:devadeelahmad@gmail.com)
 - 💌 Fun Facts :
   - 🍔 Devourer of great food
