@@ -12,7 +12,6 @@ I'm Adeel Ahmad, a passionate software engineer building digital wonders.
 - 📫 Contact Me : [devadeelahmad@gmail.com](mailto:devadeelahmad@gmail.com)
 - 💌 Fun Facts :
   - 🍔 Devourer of great food
-  - 🎓 Exploring the realms of academia
   - 🧠 Overthinks occasionally, but that's just part of the creative process 🌟
 
 <br>
