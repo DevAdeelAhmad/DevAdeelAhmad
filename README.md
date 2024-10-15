@@ -8,7 +8,7 @@ I'm Adeel Ahmad, a passionate software engineer building digital wonders.
 - 🛠️ Crafting web and app experiences
 - 💻 Embracing the world of code and tech
 - 🚀 On a journey to mastery
-- 🎯 Goal : To be better then yesterday
+- 🎯 Goal : To be better than yesterday
 - 📫 Contact Me : [devadeelahmad@gmail.com](mailto:devadeelahmad@gmail.com)
 - 💌 Fun Facts :
   - 🍔 Devourer of great food
